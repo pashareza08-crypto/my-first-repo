@@ -1,0 +1,22 @@
+  GNU nano 8.5                     algorithm.txt                      Modified
+
+
+
+
+
+
+
+
+
+
+
+
+
+BEGIN
+    SET length = 5
+    SET width  = 3
+    SET area   = length * width
+    OUTPUT "Luas = ", area
+END
+
+
